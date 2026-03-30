@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site" : "yallu",
+    "site": "yallu",
     "public": "dist",
     "ignore": [
       "firebase.json",
